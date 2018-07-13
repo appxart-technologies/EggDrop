@@ -1,0 +1,187 @@
+fileFormatVersion: 2
+guid: 2fa5d11d34fc749f888afbcb3c337b69
+timeCreated: 1439039217
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: MenuBirds_0
+    21300002: MenuBirds_1
+    21300004: MenuBirds_2
+    21300006: MenuBirds_3
+    21300008: MenuBirds_4
+    21300010: MenuBirds_5
+    21300012: MenuBirds_6
+    21300014: MenuBirds_7
+    21300016: MenuBirds_8
+    21300018: MenuBirds_9
+    21300020: BirdBg
+    21300022: CloseShop
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 8
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -2
+  maxTextureSize: 512
+  textureSettings:
+    filterMode: 2
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: MenuBirds_0
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 393
+        width: 152
+        height: 117
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MenuBirds_1
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 393
+        width: 151
+        height: 115
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MenuBirds_2
+      rect:
+        serializedVersion: 2
+        x: 357
+        y: 394
+        width: 151
+        height: 114
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MenuBirds_3
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 270
+        width: 150
+        height: 116
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MenuBirds_4
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 271
+        width: 150
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MenuBirds_5
+      rect:
+        serializedVersion: 2
+        x: 356
+        y: 270
+        width: 151
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MenuBirds_6
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 150
+        width: 150
+        height: 114
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MenuBirds_7
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 150
+        width: 151
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MenuBirds_8
+      rect:
+        serializedVersion: 2
+        x: 357
+        y: 150
+        width: 150
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MenuBirds_9
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 7
+        width: 150
+        height: 114
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: BirdBg
+      rect:
+        serializedVersion: 2
+        x: 185
+        y: 7
+        width: 140
+        height: 140
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: CloseShop
+      rect:
+        serializedVersion: 2
+        x: 389
+        y: 31
+        width: 80
+        height: 81
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,121 @@
+fileFormatVersion: 2
+guid: ef0b855750a2942939ffd87f967c0203
+timeCreated: 1439103777
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Bird_0_0
+    21300002: Bird_0_1
+    21300004: Bird_0_2
+    21300006: Bird_0_3
+    21300008: Bird_0_4
+    21300010: Bird_0_5
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 8
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -3
+  maxTextureSize: 256
+  textureSettings:
+    filterMode: 2
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: Bird_0_0
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 74
+        width: 41
+        height: 37
+      alignment: 2
+      pivot: {x: .5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Bird_0_1
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 5
+        width: 102
+        height: 102
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Bird_0_2
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 35
+        width: 34
+        height: 34
+      alignment: 9
+      pivot: {x: .863748789, y: .728809595}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Bird_0_3
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 18
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Bird_0_4
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 7
+        width: 20
+        height: 10
+      alignment: 4
+      pivot: {x: 0, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Bird_0_5
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 4
+        width: 19
+        height: 10
+      alignment: 4
+      pivot: {x: 0, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
